@@ -1,0 +1,17 @@
+{
+  "name": "alooz-hosting-security",
+  "version": "3.5.0",
+  "private": true,
+  "description": "ALOOZ HOSTING Discord Security Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "check": "node --check bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
